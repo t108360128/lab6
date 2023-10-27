@@ -25,7 +25,7 @@ public class MainActivity2 extends AppCompatActivity {
                 sugar="無糖";
          }
          else if(i == R.id.radioButton2){
-             sugar="微糖";
+             sugar="少5糖";
             }
          else if(i == R.id.radioButton3){
              sugar="半糖";
